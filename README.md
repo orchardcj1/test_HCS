@@ -1,5 +1,4 @@
-# test_HCS
-My first repo
-My second edit.
-My third edit.
+# Test Repository
+
+--*The following are examples of markdown language*--
 

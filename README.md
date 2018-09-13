@@ -12,6 +12,7 @@ Here's our log (hover to see the title text):
 1. First item
 2. Second item
   * Third item
+4. Fourth item
 
    Properly indented paragraph
 

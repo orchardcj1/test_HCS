@@ -13,6 +13,8 @@ Here's our log (hover to see the title text):
 2. Second item
   * Third item
 
+   Properly indented paragraph
+
 ```bash
 
 cd /fs/scratch/PAS1407/

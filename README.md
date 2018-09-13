@@ -9,8 +9,9 @@ Here's our log (hover to see the title text):
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 #### List 1
-  item 1
-  item 2
+1. First item
+2. Second item
+  * Third item
 
 ```bash
 
